@@ -8,7 +8,7 @@ Le scam-baiting est l'art de faire perdre du temps à un escroc afin d'éviter q
 La mise en place d'un environnement d'appât à escroquerie n'est pas aussi difficile que certaines personnes peuvent le penser. Voici un guide complet sur la façon de le faire :
 
 ##### Installer VirtualBox :
-Tout d'abord, vous devez installer VirtualBox. Il est recommandé d'utiliser la dernière version. Pour ce faire, [téléchargez VirtualBox ici] (https://download.virtualbox.org/virtualbox/6.1.12/VirtualBox-6.1.12-139181-Win.exe).
+Tout d'abord, vous devez installer VirtualBox. Il est recommandé d'utiliser la dernière version. Pour ce faire, [téléchargez VirtualBox ici] (https://www.virtualbox.org/wiki/Downloads).
 
 Une fois le fichier téléchargé, installez-le comme vous le feriez normalement pour un logiciel (par exemple, Windows utilise son assistant d'installation). Après avoir installé VirtualBox, exécutez-le. Vous devriez tomber sur un écran qui ressemble à ceci :
 
