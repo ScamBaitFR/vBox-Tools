@@ -73,6 +73,8 @@ En outre, vous voudrez également utiliser un fond d'écran personnalisé. **Il 
 3. Vous avez réussi à modifier chacune des quatre valeurs de hachage comme indiqué ci-dessus.
 4. Vous avez réussi à installer quelques applications pour vous faire passer pour un innocent.
 5. Vous avez réussi à changer le fond d'écran pour qu'il corresponde à la personnalité de la prétendue victime.
+6. Vous avez réussi à supprimer les icônes de la barre d'état des ajouts d'invités en utilisant le gestionnaire de tâches si vous utilisez les ajouts d'invités.
+7. Vous avez réussi à désactiver le gestionnaire de tâches après cela si vous utilisez Guest Additions.
 
 ### Si toutes ces conditions sont remplies, enregistrez un instantané de la machine.
 Ceci peut être fait en utilisant le menu supérieur de la fenêtre de Virtual Box : `Machine -> Prendre un instantané`. Ensuite, chaque fois que vous terminez un appât, lorsque vous éteignez la machine, cochez la case "Restaurer à <nom de l'instantané>" pour revenir à cet état de configuration terminé.
